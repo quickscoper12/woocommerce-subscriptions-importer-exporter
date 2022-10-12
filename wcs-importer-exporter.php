@@ -41,6 +41,7 @@ if ( ! function_exists( 'woothemes_queue_update' ) || ! function_exists( 'is_woo
 	require_once( 'woo-includes/woo-functions.php' );
 }
 
+# Here require_once is defined
 require_once( 'includes/wcsi-functions.php' );
 
 # Here class is defined
