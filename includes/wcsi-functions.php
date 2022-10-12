@@ -1,3 +1,5 @@
+<!-- Code starts from here -->
+
 <?php
 
 /**
