@@ -165,4 +165,5 @@ class WCS_Importer_Exporter {
 	}
 }
 
+// This is function code
 WCS_Importer_Exporter::init();
