@@ -418,7 +418,8 @@ class WCS_Exporter {
 
 		fputcsv( self::$file, $data, ',', '"' );
 	}
-
+	
+	// process_export function defines here 	
 	/**
 	 * Process export file
 	 *
