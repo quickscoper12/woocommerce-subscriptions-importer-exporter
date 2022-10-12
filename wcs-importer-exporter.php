@@ -43,6 +43,7 @@ if ( ! function_exists( 'woothemes_queue_update' ) || ! function_exists( 'is_woo
 
 require_once( 'includes/wcsi-functions.php' );
 
+// Here is WCS Importer
 class WCS_Importer_Exporter {
 
 	public static $wcs_importer;
